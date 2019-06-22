@@ -73,7 +73,6 @@ namespace addressbook_test_white
 
             //aux.Send("{ENTER}");
             ClosGroupsDialogue(dialogue);
-
         }
 
         private void ClosGroupsDialogue(Window dialogue)
